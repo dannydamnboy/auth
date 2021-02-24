@@ -10,6 +10,17 @@
       "StackName": "amplify-auth-dev-125415",
       "StackId": "arn:aws:cloudformation:eu-west-1:766456197207:stack/amplify-auth-dev-125415/06206e20-7697-11eb-91ad-0a23ec0e052f",
       "AmplifyAppId": "dr3l6sxn8kjfy"
+    },
+    "categories": {
+      "auth": {
+        "auth335beb3e": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dr3l6sxn8kjfy",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
